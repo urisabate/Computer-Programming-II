@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\oriol\onedrive\documents\github\computer-programming-ii\points3\points3\main.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  points3.vcxproj -> C:\Users\oriol\OneDrive\Documents\GitHub\Computer-Programming-II\points3\Debug\points3.exe
