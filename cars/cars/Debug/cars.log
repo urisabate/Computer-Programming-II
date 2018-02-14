@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\oriol\desktop\cars\cars\main.c(27): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\oriol\desktop\cars\cars\main.c(53): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cars.vcxproj -> C:\Users\oriol\Desktop\cars\Debug\cars.exe

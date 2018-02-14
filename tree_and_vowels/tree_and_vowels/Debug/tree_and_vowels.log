@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\oriol\desktop\tree_and_vowels\tree_and_vowels\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tree_and_vowels.vcxproj -> C:\Users\oriol\Desktop\tree_and_vowels\Debug\tree_and_vowels.exe
