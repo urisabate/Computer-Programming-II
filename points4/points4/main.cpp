@@ -7,12 +7,12 @@ using namespace std;
 typedef short int si;
 
 void absSwap(si *v1, si sizev1, si *v2, si sizev2) {
-	valarray<si> vec2(v2, sizev2);
-	valarray<si> vec1 = abs(vec2);
-
+	
 	for (si i = 0; i < sizev1; i++) {
-		v1[i] = vec1[i];
-		v2[i] = vec2[i];
+		if (v2[i] < 0) {
+			v1[i] = abs(v2[i]);
+		}
+		else { v1[i] = v2[i]; }
 	}
 }
 
