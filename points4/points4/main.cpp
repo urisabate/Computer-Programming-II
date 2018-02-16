@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-#include <valarray>
 
 using namespace std;
 typedef short int si;
