@@ -1,4 +1,4 @@
 ﻿  main.cpp
-c:\users\oriolss2\documents\github\computer-programming-ii\points4\points4\main.cpp(19): warning C4326: return type of 'main' should be 'int' instead of 'void'
-c:\users\oriolss2\documents\github\computer-programming-ii\points4\points4\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\oriolss2\documents\github\computer-programming-ii\points4\points4\main.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\oriolss2\documents\github\computer-programming-ii\points4\points4\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   points4.vcxproj -> C:\Users\oriolss2\Documents\GitHub\Computer-Programming-II\points4\Debug\points4.exe

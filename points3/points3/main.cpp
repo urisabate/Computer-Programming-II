@@ -2,8 +2,8 @@
 using namespace std;
 
 void reverse(short*arr, short sizearr) {
-	for (short i = sizearr - 1; i >= 0; i--) {
-		cout << *(arr + i) << endl;
+	for (short i = sizearr-1; i >= 0; i--) {
+		cout << *(arr+i) << endl;
 	}
 }
 
@@ -15,8 +15,8 @@ void main() {
 		cin >> arr[i];
 	}
 	system("cls");
-	short *ptr = arr;
-	reverse(ptr, 10);
+	
+	reverse(arr, 10);
 
 	system("pause");
 }
